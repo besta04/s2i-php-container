@@ -1,1 +1,1 @@
-../common/test-lib-openshift.sh
+../../common/test-lib-openshift.sh

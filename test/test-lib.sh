@@ -1,1 +1,1 @@
-../common/test-lib.sh
+../../common/test-lib.sh
